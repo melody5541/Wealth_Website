@@ -256,7 +256,7 @@ div.social-links{
 
 .login-card .reauth-email{
   display:block;
-  color:#404040;
+  color:rgb(085, 133, 208);
   line-height:2;
   margin-bottom:10px;
   font-size:14px;
@@ -283,10 +283,10 @@ div.social-links{
 }
 
 .login-card .form-signin .form-control:focus{
-  border-color:rgb(104, 145, 162);
+  border-color:rgb(085, 133, 208);
   outline:0;
-  -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
-  box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
+  -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(085, 133, 208);
+  box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(085, 133, 208);
 }
 
 .login-card .btn.btn-signin{
@@ -294,7 +294,7 @@ div.social-links{
   height:36px;
   line-height:36px;
   font-size:14px;
-  background:rgb(104, 145, 162);
+  background:rgb(85, 133, 208);
   border-radius:3px;
   border:none;
   transition:all 0.218s;
@@ -302,15 +302,15 @@ div.social-links{
 }
 
 .login-card .btn.btn-signin:hover, .login-card .btn.btn-signin:active, .login-card .btn.btn-signin:focus{
-  background:rgb(12, 97, 33);
+  background:rgb(085, 133, 208);
 }
 
 .login-card .forgot-password{
-  color:rgb(104, 145, 162);
+  color:rgb(085, 133, 208);
 }
 
 .login-card .forgot-password:hover, .login-card .forgot-password:active, .login-card .forgot-password:focus{
-  color:rgb(12, 97, 33);
+  color:rgb(085, 133, 208);
 }
 
 
